@@ -1,15 +1,26 @@
 {
-  "schema_version": "1.0",
-  "name": "OCTOPUS Marketplace",
-  "description": "セミナー台本 Deep Analysis Engine",
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "octopus",
+  "owner": {
+    "name": "barcoinc",
+    "url": "https://github.com/barcoinc"
+  },
+  "metadata": {
+    "description": "セミナー台本 Deep Analysis Engine",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
-      "id": "octopus",
-      "name": "OCTOPUS",
+      "name": "octopus",
+      "source": "./",
       "description": "ターゲットの信念を見抜き、刺さるセミナー台本を作るAIパートナー",
       "version": "1.0.0",
-      "author": "barcoinc",
-      "path": "."
+      "author": {
+        "name": "barcoinc"
+      },
+      "repository": "https://github.com/barcoinc/octopus-plugin",
+      "keywords": ["seminar", "copywriting", "analysis"],
+      "category": "productivity"
     }
   ]
 }
