@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seminar-tsukuru": {
+      "type": "http",
+      "url": "https://seminar-tsukuru-101810753511.asia-northeast1.run.app/mcp"
+    }
+  }
+}
