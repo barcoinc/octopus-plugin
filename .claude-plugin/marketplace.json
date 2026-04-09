@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "name": "OCTOPUS Marketplace",
+  "description": "セミナー台本 Deep Analysis Engine",
+  "plugins": [
+    {
+      "id": "octopus",
+      "name": "OCTOPUS",
+      "description": "ターゲットの信念を見抜き、刺さるセミナー台本を作るAIパートナー",
+      "version": "1.0.0",
+      "author": "barcoinc",
+      "path": "."
+    }
+  ]
+}
