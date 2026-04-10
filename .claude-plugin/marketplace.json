@@ -7,14 +7,14 @@
   },
   "metadata": {
     "description": "セミナー台本 Deep Analysis Engine",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "plugins": [
     {
       "name": "octopus",
       "source": "./",
       "description": "ターゲットの信念を見抜き、刺さるセミナー台本を作るAIパートナー",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "barcoinc"
       },
