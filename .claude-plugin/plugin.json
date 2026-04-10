@@ -1,8 +1,14 @@
 {
   "name": "octopus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "セミナー台本 Deep Analysis Engine — ターゲットの信念を見抜き、刺さる台本を作る",
   "author": {
     "name": "barcoinc"
-  }
+  },
+  "skills": [
+    "skills/setup",
+    "skills/analyze",
+    "skills/create-seminar",
+    "skills/feedback"
+  ]
 }
